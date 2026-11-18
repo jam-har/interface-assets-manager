@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 import java.math.BigDecimal;   // BigDecimal lives in java.math, so it needs an import
 
 /**
